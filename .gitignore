@@ -5,9 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+.rugg_cache
 
 # Virtual environments
 .venv
-
-#uv lock
-uv.lock
